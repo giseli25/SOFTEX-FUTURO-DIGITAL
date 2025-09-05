@@ -1,5 +1,2 @@
-let atua = "teste"
-
-console.log(atua)
-
-console.log("NOSSAAAA GIT CHATO")
+let numero1 = 1
+let numero2 = 2

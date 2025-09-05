@@ -34,3 +34,9 @@ switch (operacao) {
         console.log("Operação inválida! Use +, -, * ou /");
 }
 
+
+let atua = "teste"
+
+console.log(atua)
+
+console.log("NOSSAAAA GIT CHATO")
